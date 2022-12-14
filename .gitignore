@@ -1,0 +1,5 @@
+# 忽略 index.c 文件
+index.c
+
+# 忽略 test 目录下所有的文件
+test/
